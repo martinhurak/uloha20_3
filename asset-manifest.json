@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitub.io/uloha20_3/static/css/main.bc0b0666.css",
+    "main.js": "/gitub.io/uloha20_3/static/js/main.809d7dcf.js",
+    "static/js/787.5c291f7d.chunk.js": "/gitub.io/uloha20_3/static/js/787.5c291f7d.chunk.js",
+    "index.html": "/gitub.io/uloha20_3/index.html",
+    "main.bc0b0666.css.map": "/gitub.io/uloha20_3/static/css/main.bc0b0666.css.map",
+    "main.809d7dcf.js.map": "/gitub.io/uloha20_3/static/js/main.809d7dcf.js.map",
+    "787.5c291f7d.chunk.js.map": "/gitub.io/uloha20_3/static/js/787.5c291f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc0b0666.css",
+    "static/js/main.809d7dcf.js"
+  ]
+}

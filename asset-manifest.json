@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uloha20_3a/static/css/main.bc0b0666.css",
-    "main.js": "/uloha20_3a/static/js/main.93b91e49.js",
-    "static/js/787.5c291f7d.chunk.js": "/uloha20_3a/static/js/787.5c291f7d.chunk.js",
-    "index.html": "/uloha20_3a/index.html",
-    "main.bc0b0666.css.map": "/uloha20_3a/static/css/main.bc0b0666.css.map",
-    "main.93b91e49.js.map": "/uloha20_3a/static/js/main.93b91e49.js.map",
-    "787.5c291f7d.chunk.js.map": "/uloha20_3a/static/js/787.5c291f7d.chunk.js.map"
+    "main.css": "/uloha20_3/static/css/main.bc0b0666.css",
+    "main.js": "/uloha20_3/static/js/main.e9f04ec4.js",
+    "static/js/787.5c291f7d.chunk.js": "/uloha20_3/static/js/787.5c291f7d.chunk.js",
+    "index.html": "/uloha20_3/index.html",
+    "main.bc0b0666.css.map": "/uloha20_3/static/css/main.bc0b0666.css.map",
+    "main.e9f04ec4.js.map": "/uloha20_3/static/js/main.e9f04ec4.js.map",
+    "787.5c291f7d.chunk.js.map": "/uloha20_3/static/js/787.5c291f7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc0b0666.css",
-    "static/js/main.93b91e49.js"
+    "static/js/main.e9f04ec4.js"
   ]
 }

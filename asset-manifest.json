@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uloha20_3/static/css/main.bc0b0666.css",
-    "main.js": "/uloha20_3/static/js/main.925cf4be.js",
+    "main.js": "/uloha20_3/static/js/main.8d9e7c66.js",
     "static/js/787.5c291f7d.chunk.js": "/uloha20_3/static/js/787.5c291f7d.chunk.js",
     "index.html": "/uloha20_3/index.html",
     "main.bc0b0666.css.map": "/uloha20_3/static/css/main.bc0b0666.css.map",
-    "main.925cf4be.js.map": "/uloha20_3/static/js/main.925cf4be.js.map",
+    "main.8d9e7c66.js.map": "/uloha20_3/static/js/main.8d9e7c66.js.map",
     "787.5c291f7d.chunk.js.map": "/uloha20_3/static/js/787.5c291f7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc0b0666.css",
-    "static/js/main.925cf4be.js"
+    "static/js/main.8d9e7c66.js"
   ]
 }
